@@ -1,4 +1,4 @@
-# CryptoBot - NEW PROJECT --> https://github.com/Trading-Bot/CryptoBot
+# CryptoBot - NEW PROJECT --> https://github.com/Drakkar-Software/OctoBot
 ## Install
 ### Prerequisites
 - Register to [Telegram](https://telegram.org)
